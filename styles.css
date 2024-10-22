@@ -69,6 +69,10 @@ footer{
     justify-content: center;
 }
 
+#id{
+    color:#f339bb;
+}
+
 @media screen and (max-width: 767px){
     #container{
         flex-direction: column;
